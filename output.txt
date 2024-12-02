@@ -1,0 +1,52 @@
+{
+  "24000005.txt": {
+    "Company Identifier": "761 786 926",
+    "Company Name": "GRANDR",
+    "Document Purpose": "MODIFICATION SIEGE SOCIAL"
+  },
+  "24000003.txt": {
+    "Company Identifier": "0759 698 852",
+    "Company Name": "YDE GROUP ",
+    "Document Purpose": "NOMINATION ADMINISTRATOR DEMISSION ADMINISTRATEUR"
+  },
+  "24000009.txt": {
+    "Company Identifier": "415 121 990",
+    "Company Name": "JANSI",
+    "Document Purpose": "RENOUVELLEMENT DU CONSEIL D'ADMINISTRATION"
+  },
+  "24000002.txt": {
+    "Company Identifier": "0795 785 723",
+    "Company Name": "QUICK ENTREPRISE ",
+    "Document Purpose": NOMINATION ADMINISTRATOR DEMISSION ADMINISTRATEUR CHANGEMENT SIEGE SOCIAL
+  },
+  "24000010.txt": {
+    "Company Identifier": "426 239 675",
+    "Company Name": "DELCORDE ET WILBERZ",
+    "Document Purpose": "RENOUVELLEMENT DU CONSEIL D'ADMINISTRATION"
+  },
+  "24000001.txt": {
+    "Company Identifier": "0567 779 701",
+    "Company Name": "ADAM PARTENARIAT",
+    "Document Purpose": "DEMISSION - NOMINATION - CESSION DE PARTS SOCIALES"
+  },
+  "24000007.txt": {
+    "Company Identifier": "0700 794 910",
+    "Company Name": "THERMO SANITAR ",
+    "Document Purpose": "ADMOPTION DE NOUVEAUX STATUS EN CONCORADANCE AVEC LE CODE DES SOCIETES"
+  },
+  "24000006.txt": {
+    "Company Identifier": "0401 936 623",
+    "Company Name": "BIOCODEX BENELUX ",
+    "Document Purpose": "RECONDUCTION DES MANDATS D'ADMINISTRATEURS - L'ADMINISTRATEUR DELEGUE - COMMISSAIRE"
+  },
+  "24000008.txt": {
+    "Company Identifier": "0766 838 151",
+    "Company Name": "LOLA & BILLY ",
+    "Document Purpose": "NOMINATION, DEMITION ET TRANSFER DES PARTS ASSEMBLEE EXTRAORDINAIRE DE"
+  },
+  "24000004.txt": {
+    "Company Identifier": "0726 808 924",
+    "Company Name": "BRUSSEL SHOP ",
+    "Document Purpose": "TRANSFERT SIEGE SOCIAL - CESSION DE ACTIONS"
+  }
+}
